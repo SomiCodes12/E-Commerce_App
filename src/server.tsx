@@ -1,0 +1,1 @@
+export const server = "http://localhost:1222/api/v1"
